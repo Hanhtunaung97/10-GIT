@@ -1,1 +1,3 @@
-console.log("this is feature conflict 1");
+
+console.log("this is feature conflict 2");
+
