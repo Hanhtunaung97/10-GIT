@@ -1,1 +1,1 @@
-console.log("this is new version 3");
+console.log("this is feature conflict 2");
